@@ -1,0 +1,28 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+
+Looks good!
+
+Is the code easy to read (good indentation, spacing, naming)?
+
+Yep!
+
+Were branching and looping used effectively?
+
+For sure!
+
+Is the web page(s) styled using Bootstrap and CSS?
+
+The CSS looks good!  Bootstrap would have been too much!!!
+
+
+Is the site user-friendly?
+
+Absolutely!
+
+Do you have any additional constructive criticism or positive feedback to share?
+
+It would have been nice to hear the sound of a beer opening every couple of seconds.
+
+Great job, overall!
+
+TM and JO
